@@ -61,4 +61,4 @@ class Solution:
             for s in res[r]:
                 for t in res[r][s]:
                     ans.append([r, s, t])
-        return ans 
+        return ans
